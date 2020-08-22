@@ -10,7 +10,7 @@ It includes the full discography of a legendary Soviet & Russian rock band Kino 
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_1583319322.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_1583319337.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_1583319314.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/tsoi-kino-band/master/screenshots/Screenshot_1583319314.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/tsoi-kino-band/master/screenshots/Screenshot_1583319322.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/tsoi-kino-band/master/screenshots/Screenshot_1583319337.png" width="360" height="640">
 
 ## Privacy policy
 
